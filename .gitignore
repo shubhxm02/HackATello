@@ -1,0 +1,10 @@
+__pycache__
+.venv
+.DS_Store
+*.log
+xtra
+cvzone/*
+.mp4
+.avi
+logs/*
+recordings/*
